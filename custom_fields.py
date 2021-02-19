@@ -1,6 +1,4 @@
 import looker_sdk
-import requests
-from urllib.parse import urlparse
 
 sdk=looker_sdk.init31()
 
